@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62ef38ff-2d58-4f1d-a3ce-84f0e2135e6f" name="Default Changelist" comment="" />
+    <list default="true" id="62ef38ff-2d58-4f1d-a3ce-84f0e2135e6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myproject/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/settings/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/settings/development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/wsgi.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myproject/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="101" column="1" lean-forward="true" selection-start-line="93" selection-start-column="3" selection-end-line="101" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,23 +32,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/myproject/settings.py" />
+        <option value="$PROJECT_DIR$/myproject/settings/__init__.py" />
+        <option value="$PROJECT_DIR$/myproject/settings/development.py" />
+        <option value="$PROJECT_DIR$/myproject/settings/production.py" />
+        <option value="$PROJECT_DIR$/myproject/settings/base.py" />
         <option value="$PROJECT_DIR$/myproject/wsgi.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/myproject/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
+    <option name="width" value="1937" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,13 +70,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sales_report_crm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -119,17 +128,17 @@
       <updated>1564776725397</updated>
       <workItem from="1564776726976" duration="80000" />
       <workItem from="1564777123825" duration="256000" />
+      <workItem from="1566652746236" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336000" />
+    <option name="totallyTimeSpent" value="592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="2553" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18473895" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,26 +165,53 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/myproject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myproject/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="220">
+          <caret line="13" column="78" selection-start-line="13" selection-start-column="78" selection-end-line="13" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myproject/settings.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="101" column="1" lean-forward="true" selection-start-line="93" selection-start-column="3" selection-end-line="101" selection-end-column="1" />
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1802">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/settings/development.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myproject/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
